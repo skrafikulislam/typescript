@@ -1,0 +1,20 @@
+microsoft develop typescript.
+js with type checking = typescript
+ts is build on top of js
+transpilation = turning ts to js via compiler to execute the code.
+to debug need to enable sourcemap in configuration file .
+also need to uncomment some other features as well for smooth learning.
+------------------------------------
+DataTypes = The any type - 
+            arrays
+            tuples
+            enums
+            functions
+            objects
+any , unknown , never , enum , tuple
+-------------------------------------
+
+
+
+
+
